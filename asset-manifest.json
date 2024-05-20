@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SHOPPERS/static/css/main.86662cce.css",
+    "main.css": "/SHOPPERS/static/css/main.f0e7cb9e.css",
     "main.js": "/SHOPPERS/static/js/main.e5c28159.js",
     "static/js/453.87ef0cbf.chunk.js": "/SHOPPERS/static/js/453.87ef0cbf.chunk.js",
     "static/media/banner_kids.png": "/SHOPPERS/static/media/banner_kids.fff815a581793a7380fb.png",
@@ -20,12 +20,12 @@
     "static/media/product_28.png": "/SHOPPERS/static/media/product_28.04b01625e212ebb2534e.png",
     "static/media/product_35.png": "/SHOPPERS/static/media/product_35.073b8b5de77cfc979821.png",
     "index.html": "/SHOPPERS/index.html",
-    "main.86662cce.css.map": "/SHOPPERS/static/css/main.86662cce.css.map",
+    "main.f0e7cb9e.css.map": "/SHOPPERS/static/css/main.f0e7cb9e.css.map",
     "main.e5c28159.js.map": "/SHOPPERS/static/js/main.e5c28159.js.map",
     "453.87ef0cbf.chunk.js.map": "/SHOPPERS/static/js/453.87ef0cbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86662cce.css",
+    "static/css/main.f0e7cb9e.css",
     "static/js/main.e5c28159.js"
   ]
 }
